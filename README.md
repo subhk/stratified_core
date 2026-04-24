@@ -51,15 +51,6 @@ julia fig3_transient.jl
 julia fig4_detuning.jl
 ```
 
-Each script writes a PNG file in the same directory:
-
-- `fig1.png`
-- `fig2.png`
-- `fig3.png`
-- `fig4.png`
-
-These files can then be copied into the manuscript directory or used directly for comparison.
-
 ## Model summary
 
 The shared file `paper_figures_common.jl` implements the following reduced quantities:
