@@ -1,4 +1,4 @@
-# Code for "A stratified core lid as a spectral selector for trapped MAC modes"
+## Stratified core 
 
 This repository contains the Julia scripts used to generate the reduced-model figures for the manuscript:
 
